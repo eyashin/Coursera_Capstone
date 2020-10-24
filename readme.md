@@ -1,0 +1,5 @@
+# Coursera Capstone: The battle of Neighborhoods
+## Introduction: Business Problem:
+Every day, millions of people use the services of cafes and restaurants. For example, the restaurant and food service industry is a $660 billion industry in the United States. This industry is divided into two groups: Those that prepare and serve food and those that produce and distribute food, equipment, and services needed by food providers. . The most common example of the first group is restaurants. The second group, producers and distributors of food, equipment, and services, include equipment suppliers and food and beverage suppliers.
+Your company is distributors of food, equipment, and services. While restaurant numbers have decreased somewhat in recent years, you want to expand your business. The best way do to this is find another location for your business.
+You select Prague the capital of Czech Republic. You need to know what areas there are in the city of Prague. The number of restaurants of a certain type in different districts. In addition, a density of restaurants per square kilometer for solving logistics problems.
