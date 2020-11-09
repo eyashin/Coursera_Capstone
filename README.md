@@ -50,9 +50,9 @@ Than show top data by density and quantity
  
 ## Results:
 One of the goals of my work was to visualize the Number of restaurants and their density per square kilometer with choropleth style map. 
- 
+![Map1](map1.png)
 We can see that districts on the right bank of the Vltava River are more interesting for restaurant business.
- 
+![Map2](map2.png)
 The areas with the largest number of restaurants are clearly visible without clustering.
 
 ## Discussion:
