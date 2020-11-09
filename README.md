@@ -40,7 +40,9 @@ Neighborhood      Area
 
 The size of districts differs by more than 20 times. We can draw that information on a choropleth style map. These neighborhoods and markers were plotted with the help of Folium library. The dark green zone is the largest Prague 6 district on the left bank of the Vltava River. I used Google geocode API to find the coordinates of Prague.[5]
 Unfortunately, folium maps are not correctly displayed through the pdf, so they can be seen in this report, although, not interactively. An interactive version of the map is available in Notebook at https://github.com/eyashin/Coursera_Capstone.
- 
+
+![districts](districts.png)
+
 Next, we use Foursquare API to get 100 restaurants that are within a radius of 1500 meters from the center of each district. Then we make API calls to Foursquare in a Python loop. Foursquare returns the data in the JSON format and we extract the information from the following fields: neighborhood, Id, restaurant’s name, restaurant’s category, restaurant’s latitude and longitude.
 We loaded 2028 items for analysis.
 Then we calculate the number of restaurants and their density for every district. 
